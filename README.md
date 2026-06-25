@@ -1,4 +1,4 @@
-# Gator
+# Gator (GUIDED PROJECT)
 
 Gator is a command-line RSS feed aggregator written in Go. Users can register accounts, add RSS feeds, follow feeds, aggregate posts, and browse articles from the terminal.
 
